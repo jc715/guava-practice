@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by jiangchen on 2018/5/7.
+ * Created by jiangchen.
  */
 public class OrderingTest {
     public static void main(String[] args) {

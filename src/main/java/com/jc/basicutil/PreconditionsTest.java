@@ -4,7 +4,7 @@ import com.google.common.base.Preconditions;
 
 /**
  * 用于验证参数
- * Created by jiangchen on 2018/5/7.
+ * Created by jiangchen.
  */
 public class PreconditionsTest {
     public static void main(String[] args) {

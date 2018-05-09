@@ -7,7 +7,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by jiangchen on 2018/5/9.
+ * Created by jiangchen.
  */
 public class LoadingCacheTest {
     public static void main(String[] args) throws ExecutionException {

@@ -5,7 +5,7 @@ import com.google.common.base.Strings;
 
 /**
  * 用于判断值是否为null
- * Created by jiangchen on 2018/5/7.
+ * Created by jiangchen.
  */
 public class OptionalTest {
     public static void main(String[] args) {

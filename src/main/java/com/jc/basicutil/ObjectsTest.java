@@ -5,7 +5,7 @@ import com.google.common.base.Objects;
 import com.google.common.collect.ComparisonChain;
 
 /**
- * Created by jiangchen on 2018/5/7.
+ * Created by jiangchen.
  */
 public class ObjectsTest {
     public static void main(String[] args) {

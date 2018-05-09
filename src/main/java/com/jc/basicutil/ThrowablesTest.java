@@ -5,7 +5,7 @@ import com.google.common.base.Throwables;
 import java.util.List;
 
 /**
- * Created by jiangchen on 2018/5/7.
+ * Created by jiangchen.
  */
 public class ThrowablesTest {
     public static void main(String[] args) throws Exception {
